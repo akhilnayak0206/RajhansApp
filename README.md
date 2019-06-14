@@ -3,8 +3,7 @@ The Donation App<br />
 This app was made using <strong>React Native</strong><br />
 This is an Android and IOS App that helps the member of the committee to accept payment from a donor and give a receipt for the same. <br />
 All the members have to log in with their credentials in order to use the app.<br />
-In this app, all the members can view the total donation and total expense.<br />
-The receipt can be shared using the share button on every receipt and it supports all the available apps on that device.<br />
+The receipt can be shared using the share button and it supports all the available apps on that device.<br />
 The app can also save a contact that helps the user to directly add the donor's contact no. and then send it via WhatsApp.<br />
 The Overview helps to look at the total amount made in a particular wing or total expense or to look at how much cash is left in hand.<br />
 The Reset and Delete Database also shows which user has deleted any donors receipt.<br />

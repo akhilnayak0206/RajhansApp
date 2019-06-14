@@ -8,6 +8,8 @@ The app can also save a contact that helps the user to directly add the donor's 
 The Overview helps to look at the total amount made in a particular wing or total expense or to look at how much cash is left in hand.<br />
 The Reset and Delete Database also shows which user has deleted any donors receipt.<br />
 In this app, only the admin can add  any new member.<br />
+Please do checkout the screenshot folder.<br />
+It contains all the screenshot of the app.<br />
 <br />
 
 <h1>Android</h1>
